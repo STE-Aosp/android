@@ -515,7 +515,7 @@
   <project path="packages/apps/MonthCalendarWidget" name="android_packages_apps_MonthCalendarWidget" remote="omnirom" revision="android-5.0" />
 
   <!--st-e specific tres-->
-  <project path="vendor/sony/kumquat" name="STE-aosp/android_vendor_sony_kumquat" remote="github" revision="master" />
+  <project path="vendor/sony/kumquat" name="STE-aosp/vendor_sony_kumquat" remote="github" revision="master" />
   <project path="device/sony/kumquat" name="STE-aosp/android_device_sony_kumquat" remote="github" revision="aosp_5.0" />
   <project path="device/sony/montblanc-common" name="STE-aosp/android_device_sony_montblanc-common" remote="github" revision="aosp_5.0" />
   <project path="hardware/ste-sony" name="STE-aosp/android_hardware_ste-sony" remote="github" revision="lollipop" />
